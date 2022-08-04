@@ -11,6 +11,8 @@ if [[ $# -ne 5 ]]; then
 	exit 1
 fi
 
+export PGPASS="$db_pass"
+
 vmstat_mb=$(vmstat --unit M)
 hostname=$(hostname -f)
 
