@@ -26,11 +26,11 @@ timestamp=$(date -u +"%Y-%m-%d %H:%M:%S")
 psql -h $psql_host -p $psql_port -U $psql_user -w -d $db_name
 
 insert into host_info (
-	hostname, cpu_count, cpu_arch, cpu_model, cpu_mhz, l2_cache, mem_total, curr_time
+	hostname, cpu_number, cpu_architecture, cpu_model, cpu_mhz, l2_cache, total_mem, timestamp
 )
 values 
-	(
-		'$hostname', $cpu_count, '$cpu_arch', '$cpu_mdl', $cpu_mhz, $l2_cache, $mem_total, '$curr_time'
-	);
+(
+	'$hostname', $cpu_number, '$cpu_architecture', '$cpu_model', $cpu_mhz, $l2_cache, $total_mem, '$timestamp'
+)
 
 exit 0
