@@ -14,6 +14,9 @@ CREATE TABLE IF NOT EXISTS PUBLIC.host_info (
 	PRIMARY KEY(id)
 );
 
+INSERT INTO host_info (id, hostname, cpu_number, cpu_architecture, cpu_model, cpu_mhz, L2_cache, total_mem, timestamp)
+VALUES (1, 'spry-framework-236416.internal', 1, 'x86_64', 'Intel(R) Xeon(R) CPU @ 2.30GHz', 2300.000, 256, 601324, '2022-06-29 17:49:53');
+
 CREATE TABLE IF NOT EXISTS PUBLIC.host_usage (
 	timestamp TIMESTAMP NOT NULL, 
 	host_id INT NOT NULL, 
@@ -26,3 +29,5 @@ CREATE TABLE IF NOT EXISTS PUBLIC.host_usage (
 	FOREIGN KEY(host_id) REFERENCES PUBLIC.host_info(id)
 );
 
+INSERT INTO host_usage ("timestamp", host_id, memory_free, cpu_idle, cpu_kernel, disk_io, disk_available)
+VALUES ('2022-07-29 16:53:28', 1, 256, 95, 0, 0, 31220);
