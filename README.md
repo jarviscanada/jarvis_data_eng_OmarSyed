@@ -4,34 +4,34 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Python/Pandas/NumPy/Scikit-Learn, Java, Spyder, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
 
-**Competent:** Donec, fermentum, Donec, fermentum, Donec
+**Competent:** Object Oriented Programming, MATLAB, HTML/CSS, Visual Studio, Docker, Oracle SQL, JavaScript, C++
 
-**Familiar:** Donec, fermentum, fermentum, fermentum, fermentum
+**Familiar:** ZenHub, Hadoop/Hive, PHP, yaml, Tableau, Google Cloud
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
+Project source code: [https://github.com/jarviscanada/jarvis_data_eng_OmarSyed](https://github.com/jarviscanada/jarvis_data_eng_OmarSyed)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_OmarSyed/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
 
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
+**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_OmarSyed/tree/master/core_java)]:
       
   - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
   - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
   - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
 
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/springboot)]: Not Started
+**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_OmarSyed/tree/master/springboot)]: Not Started
 
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/python_data_anlytics)]: Not Started
+**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_OmarSyed/tree/master/python_data_anlytics)]: Analyzed a company's customer transaction histories in order to gain an insight to customer behavior for the purpose of better marketting stateigies. Setup a data warehouse using SQL on the Jarvis Docker Container and populated it using the provided CSV file of customer transaction histories. Implemented Python Scripts using the Pandas and NumPy libraries for preforming data analytics. Analyzed customer behavior and noted points of improvements for the marketing team. Recorded and documented the Python script using Jupyter Notebook
 
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/hadoop)]: Not Started
+**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_OmarSyed/tree/master/hadoop)]: Not Started
 
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/spark)]: Not Started
+**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_OmarSyed/tree/master/spark)]: Not Started
 
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/cloud_devops)]: Not Started
+**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_OmarSyed/tree/master/cloud_devops)]: Not Started
 
 
 ## Highlighted Projects
@@ -42,23 +42,24 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Data Engineer, Jarvis Consulting (2022-Present)**: Developed applications and managed Data using Linux, Bash Scripting, SQL, Python(Pandas, NumPy) and Hadoop. Implmented and used software tools such as IntelliJ, Visual Studio, Google Cloud Platform, VNC(Virtual Network Computing) and Docker to complete the assigned Data Engineering projects. The position provided me with first hand experience using Agile/SCRUM framework in an evolving work enviornment to host and run daily scrum meetings as well as bi-wekkly sprint retrospectives.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Financial Treasurer, SRCC (2015-Present)**: Managed Finances for the charity and projected optimal fund raising oppunities. Analyzed and calculated charity financial trends as well as developing plans to maximum attainable growth.
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
-
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**Ryerson University (2018-2022)**, Bachelor of Sciences (Honors), Computer Science
+- Dean's List (2020-2021, 2021-22): GPA of 3.5 or higher
+- Last Two Year CGPA: 3.53/4.0
+- Minor in Finance
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
-- Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- Azure Data Science (In-Process)
+- Deans list (2020-2021, 2021,2022)
+- Volleyball
+- Cricket
+- Casual Gaming
+- Hiking
+- Board Games
+- Volunteer, SRCC(Syrian Refugee Camp Charity)(2015-Present)

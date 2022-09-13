@@ -1,7 +1,7 @@
 # Preferred name (Characters only)
 name: "Omar Syed"
 # Your GitHub repo root URL
-github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_OmarSyed
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
@@ -56,7 +56,11 @@ jarvis_projects:
     description: ""
   - name: "Python Data Analytics"
     git_url: "/python_data_anlytics"
-    description: "Analyzed a company's customer transaction histories in order to insight to customer behavior for the purpose of better marketting stateigies."
+    description: "Analyzed a company's customer transaction histories in order to gain an insight to customer behavior for the purpose of better marketting stateigies. 
+Setup a data warehouse using SQL on the Jarvis Docker Container and populated it using the provided CSV file of customer transaction histories.
+Implemented Python Scripts using the Pandas and NumPy libraries for preforming data analytics.
+Analyzed customer behavior and noted points of improvements for the marketing team.
+Recorded and documented the Python script using Jupyter Notebook"
   - name: "Hadoop"
     git_url: "/hadoop"
     description: ""
@@ -89,11 +93,14 @@ professional_experience:
     company: "Jarvis Consulting"
     duration: "2022-Present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Developed applications and managed Data using Linux, Bash Scripting, SQL, Python(Pandas, NumPy) and Hadoop. Implmented and used software tools such as IntelliJ, Visual Studio, Google Cloud Platform, VNC(Virtual Network Computing) and Docker to complete the assigned Data Engineering projects. The position provided me with first hand experience using Agile/SCRUM framework in an evolving work enviornment to host and run daily scrum meetings as well as bi-wekkly sprint retrospectives."
+    description: "Developed applications and managed Data using Linux, Bash Scripting, SQL, Python(Pandas, NumPy) and Hadoop. 
+Implmented and used software tools such as IntelliJ, Visual Studio, Google Cloud Platform, VNC(Virtual Network Computing) and Docker to complete the assigned Data Engineering projects. 
+The position provided me with first hand experience using Agile/SCRUM framework in an evolving work enviornment to host and run daily scrum meetings as well as bi-wekkly sprint retrospectives."
   - title: "Financial Treasurer"
     company: "SRCC"
     duration: "2015-Present"
-    description: "Managed Finances for the charity and projected optimal fund raising oppunities. Analyzed and calculated charity financial trends as well as developing plans to maximum attainable growth."
+    description: "Managed Finances for the charity and projected optimal fund raising oppunities. 
+Analyzed and calculated charity financial trends as well as developing plans to maximum attainable growth."
 
 #List of edcuation
 education: 
